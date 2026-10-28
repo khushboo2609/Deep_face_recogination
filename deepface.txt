@@ -1,0 +1,5 @@
+here i have used deepface framework
+used facenet
+tenserflow-keras
+only used one person dataset of 50 images
+it compares, idengtify duplicates,compare detected faces
